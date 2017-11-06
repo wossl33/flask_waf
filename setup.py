@@ -16,7 +16,7 @@ setup(
     author_email='hamdell@163.com',
     description='web applaction firewall of flask',
     long_description=__doc__,
-    py_modules=['flask_waf'],
+    py_modules=['flask_waf','rule','engine','thread_pool'],
     zip_safe=False,
     platforms='any',
     install_requires=['Flask'],
