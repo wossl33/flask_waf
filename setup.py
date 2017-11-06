@@ -19,6 +19,7 @@ setup(
     py_modules=['flask_waf','rule','engine','thread_pool'],
     zip_safe=False,
     platforms='any',
+    package_data={"flask_waf": ["rules/*.json"]},
     install_requires=['Flask'],
     classifiers=[
         'Development Status :: 4 - Beta',
