@@ -1,0 +1,14 @@
+{
+    "name":"Virtual Patching",
+    "description":"虚拟补丁，默认过滤任何请求！",
+    "level":1,
+    "status":"on",
+    "author":"hamdell",
+    "actions":[
+        {
+            "id":20170001,
+            "msg":"virtual patching",
+            "pattern":""
+        }
+    ]
+}

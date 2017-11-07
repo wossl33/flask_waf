@@ -1,0 +1,14 @@
+{
+    "name":"Http Methods Forbidden",
+    "description":"HTTP方法禁用",
+    "level":3,
+    "status":"on",
+    "author":"hamdell",
+    "actions":[
+        {
+            "id":20170001,
+            "msg":"http request method",
+            "pattern":"^PUT|TRACE|DELETE|MOVE|CONNECT|OPTIONS|COPY$"
+        }
+    ]
+}
