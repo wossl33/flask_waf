@@ -74,11 +74,6 @@
             "id":20170014,
             "msg":"XSS (Cross-Site Scripting)",
             "pattern":"(asfunction|javascript|vbscript|data|mocha|livescript):"
-        },
-        {
-            "id":20170015,
-            "msg":"XSS (Cross-Site Scripting) - IE Filter",
-            "pattern":"(?:<OBJECT /+\\t].*?((type)|(codetype)|(classid)|(code)|(data))[ /+\\t]*=)"
         }
     ]
 }
