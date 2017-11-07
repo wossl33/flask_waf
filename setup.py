@@ -10,7 +10,7 @@ from setuptools import setup,find_packages
 setup(
     name='Flask-Waf',
     version='1.0.0',
-    url='http://packages.python.org/Flask-Principal/',
+    url='https://github.com/hamdell/flask_waf',
     license='MIT',
     author='Hamdell',
     author_email='hamdell@163.com',
