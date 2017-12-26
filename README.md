@@ -17,3 +17,5 @@ Flask框架应用防火墙插件，针对SQL注入和XSS攻击，用来做学习
 
 使用方法：
     请参考test.py
+    
+来源：https://github.com/hamdell/flask_waf.git
